@@ -1,8 +1,12 @@
 const accountId= 12345;  // semicolon is not compulsory  
+
 let accountBalance = 65475645; 
+
 var Name = "Abhi";
+
 surname = "bhatt"  // you can also define variable without type datatype
-let accountOpenYear;
+
+let accountOpenYear;  //the value of this variable is undefined
 
 console.log("Name");  // if you do quote so the parameter is print 
 console.log(Name);    // if you do not do quote the variable value is print
