@@ -32,3 +32,6 @@ let number = 34
 let numToString = String(number);
 console.log(numToString);
 console.log(typeof(numToString));
+
+let add = numToString + 34;
+console.log(add)
