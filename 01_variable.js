@@ -1,3 +1,5 @@
+//This is about variable
+
 const accountId= 12345;  // semicolon is not compulsory  
 
 let accountBalance = 65475645; 
