@@ -1,3 +1,5 @@
+// This is about DataTypes
+
 "use strict"; // treat all code is like newer version of javascript
 
 // alert("hello ") //if you run this in node it will not work but in browser console it work perfectly
