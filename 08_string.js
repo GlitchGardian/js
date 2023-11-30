@@ -1,4 +1,4 @@
-// String, string printing methods, declaration mathods
+// String, string printing methods, declaration mathods,access string
 
 let myname = "Abhishek"  //1st method to Declare string
 let gameScore = 75
