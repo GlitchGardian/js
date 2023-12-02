@@ -50,7 +50,6 @@ console.log(replacedStr);
 let Strnew = "Abhishek-bhatt-is-developer-in-microsoft"
 
 console.log(Strnew.split("-"))
-console.log(Strnew.split("-"))
 
 
 
