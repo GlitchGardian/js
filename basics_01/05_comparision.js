@@ -44,3 +44,8 @@ console.log(undefined >= NaN); //false
 // also there is strictCheck in JavaScript (===) it check value and DataType
 
 console.log(3 === "3");  //false 
+
+console.log("1"+2+3 == 1+2+"3")  //false
+
+
+console.log(null == 0); //true

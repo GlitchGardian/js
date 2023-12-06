@@ -35,4 +35,6 @@ let numToString = String(number);
 console.log(numToString);
 console.log(typeof(numToString));
 
-
+let un = undefined
+let untobool = Boolean(un)
+console.log(untobool)

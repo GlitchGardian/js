@@ -20,7 +20,7 @@ console.log(directdate) //Sat Dec 02 2023 20:09:52 GMT+0530 (India Standard Time
 // let createDate = new Date(2030 , 3, 4) //Thu Apr 04 2030
 // let createDate = new Date(2030 , 3, 4, 5, 10)  //4/4/2030, 5:10:00 am
 // let createDate = new Date("2030-03-24") // 24/3/2030, 5:30:00 am
-let createDate = new Date("01-01-2024") // 24/3/2030, 5:30:00 am
+let createDate = new Date("01-01-2024") =
 console.log(createDate.toLocaleString())
 
 
