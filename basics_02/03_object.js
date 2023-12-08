@@ -5,7 +5,7 @@ let nulObj = {}
 
 // 2. object 
 
-let info = {
+const info = {
     Myname : "Abhishek",
     age : 20,
     Email : "abhishek@samsung.com"
