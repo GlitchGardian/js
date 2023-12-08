@@ -57,5 +57,12 @@ console.log(newObj.Greeting());
 
 
 // there is we define object 2 type 
-// 1. singleton object(constructor)
+// 1. singleton object(constructor)  we can create this type of object with 
+// Object.create()
+
 // 2. object litrerals(normal object)
+// let obj = {
+//     Myname : "Abhishek",
+//     age : 20,
+//     Email : "abhishek@samsung.com"
+// }
