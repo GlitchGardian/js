@@ -55,3 +55,7 @@ newObj.Greeting = function(){
 
 console.log(newObj.Greeting());
 
+
+// there is we define object 2 type 
+// 1. singleton object(constructor)
+// 2. object litrerals(normal object)
